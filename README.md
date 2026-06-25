@@ -24,8 +24,8 @@ nslookup shorterloop.com
 Server:  UnKnown  
 Address: 192.168.1.1
 
-Non-authoritative answer:
-Name:    shorterloop.com
+Non-authoritative answer:  
+Name:    shorterloop.com  
 Address: 76.76.21.21
 
 nslookup shorterloop.com → 76.76.21.21
