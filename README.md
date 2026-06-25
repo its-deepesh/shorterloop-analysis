@@ -30,7 +30,7 @@ Address: 76.76.21.21
 
 nslookup shorterloop.com → 76.76.21.21
 
-
+![Network Tab Screenshot](network-screenshot.png)
 
 ## 📋 Step 3: Network Requests Found
 
