@@ -21,7 +21,7 @@ Opened Command Prompt and ran nslookup command.
 nslookup shorterloop.com
 
 **Output:**
-Server:  UnKnown
+Server:  UnKnown  
 Address: 192.168.1.1
 
 Non-authoritative answer:
