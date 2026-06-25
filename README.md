@@ -51,7 +51,7 @@ nslookup shorterloop.com → 76.76.21.21
 
 ![Network Tab Screenshot](network-screenshot.png)
 
-### 🚀 Git Commands Used
+## 🚀 Git Commands Used
 
 - git init
 - git add .
