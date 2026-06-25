@@ -59,3 +59,6 @@ nslookup shorterloop.com → 76.76.21.21
 - git remote add origin https://github.com/YOUR_USERNAME/shorterloop-analysis.git
 - git branch -M main
 - git push -u origin main
+
+![Github commands Screenshot](term1.png)
+![Github commands Screenshot](term2.png)
