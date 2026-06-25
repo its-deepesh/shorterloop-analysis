@@ -30,7 +30,7 @@ Address: 76.76.21.21
 
 nslookup shorterloop.com → 76.76.21.21
 
-![Network Tab Screenshot](network-screenshot.png)
+![Terminal Screenshot](terminal-screenshot.png)
 
 ## 📋 Step 3: Network Requests Found
 
@@ -49,9 +49,7 @@ nslookup shorterloop.com → 76.76.21.21
 6. Scroll to Response Headers
 7. Find server: Vercel
 
-## 🚀 Step 4<img width="1901" height="585" alt="network-screenshot" src="https://github.com/user-attachments/assets/6763e2a0-4ee2-4ad4-a99c-a61d39957389" />
-<img width="1901" height="585" alt="network-screenshot" src="https://github.com/user-attachments/assets/87c2d4d8-1f07-48be-b0cb-a754f11ba74d" />
-: Push to GitHub
+![Network Tab Screenshot](network-screenshot.png)
 
 Commands used to push this project to GitHub:
 
