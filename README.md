@@ -51,11 +51,11 @@ nslookup shorterloop.com → 76.76.21.21
 
 ![Network Tab Screenshot](network-screenshot.png)
 
-Commands used to push this project to GitHub:
+### 🚀 Git Commands Used
 
-git init
-git add .
-git commit -m "Add network analysis task"
-git remote add origin https://github.com/YOUR_USERNAME/shorterloop-analysis.git
-git branch -M main
-git push -u origin mai
+- git init
+- git add .
+- git commit -m "Add network analysis task"
+- git remote add origin https://github.com/YOUR_USERNAME/shorterloop-analysis.git
+- git branch -M main
+- git push -u origin main
