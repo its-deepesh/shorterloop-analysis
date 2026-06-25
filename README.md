@@ -17,10 +17,10 @@ and HTTP network requests for the domain shorterloop.com.
 
 Opened Command Prompt and ran nslookup command.
 
-**Command Used:**
+**Command Used:**  
 nslookup shorterloop.com
 
-**Output:**
+**Output:**  
 Server:  UnKnown  
 Address: 192.168.1.1
 
